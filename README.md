@@ -5,3 +5,4 @@ This repositery will be updated ferquently .
 Topics that are uploaded
 -> CONDITIONALS
 -> PATTERN
+-> ARRAY
