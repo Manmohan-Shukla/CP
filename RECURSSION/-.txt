@@ -1,0 +1,38 @@
+Will keep it concise, received OA which was one basic DSA and other frontend related tasks
+Write CSS to make page look like given output.
+Nested JSON viewer React component with editing.
+Some other MCQs.
+
+
+Cleared OA and received HR call that there will be 3 rounds each will be an elimination round.
+
+
+First round was conducted by InterviewVector on behalf of Swiggy, He told me to login to Leetcode and gave some problems, he checked submission tab and skipped if already solved, I have solved lot of problems so nothing was unsolved out of his ~10 problems, so skipped DSA entirely, didn't know he would ask this else would have used new account.
+
+
+Rest was frontend related task, design EventEmitter in JS, and other theory questions.
+
+
+Cleared this round.
+
+
+Next round was Design round, had 2 basic debugging questions related to React and then design a social media feed (mock data and frontend only).
+
+
+Simulate backend using promises
+Inifinite Scrolling
+Like posts
+Nested comments
+Then some discussions about optimizations and stuff.
+
+
+Cleared this round too.
+
+
+Last round was HM round, which was supposed to be technical.
+
+
+He asked about current role and what I do, told what they do in their team, my current role is extremely similar, he asked about website performance optimization techniques, how CI/CD work, how would you make website work on slow network etc. Then a basic CSS Animation task with performance discussions, and why I want to join and why leaving current.
+
+
+I believe this too went pretty well, still today I got rejection email.
