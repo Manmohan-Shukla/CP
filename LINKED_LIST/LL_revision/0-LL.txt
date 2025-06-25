@@ -1,0 +1,10 @@
+<--|_|--TOPIC--|_|-->
+->Define class LL
+->size LL
+->display LL normal and recursive
+->insert end head idx
+->delete
+->middle of LL fast slow pointer
+->reverse LL iterative and recursive
+->detect cycle  length of cycle head of cycle
+->palindrome
