@@ -1,10 +1,20 @@
 <--|_|--TOPIC--|_|-->
-->Define class LL
+1->Define class LL
 ->size LL
 ->display LL normal and recursive
-->insert end head idx
-->delete
+2->insert end head idx
 ->middle of LL fast slow pointer
-->reverse LL iterative and recursive
-->detect cycle  length of cycle head of cycle
-->palindrome
+3->reverse LL iterative and recursive
+4->detect cycle  length of cycle head of cycle
+5->palindrome
+6->odd even LL
+7->delete nth node from back
+8->delete middle LL
+9->sort
+10->find intersection of two list
+11->Add two number 
+12->sort  0,1,2
+13->DLL insert
+14->DLL delete
+15->rotate LL
+16->delete all occureace in DLL
